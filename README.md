@@ -25,3 +25,7 @@ Structure of the Dataset Software Professional Salaries - 2022 ├── Rating
 ├── Employment Status
 
 └── Job Roles
+
+
+
+![output_23_0](https://user-images.githubusercontent.com/70504637/177700244-496acf4d-cc1f-488e-87e7-8077d636b8fd.png)
